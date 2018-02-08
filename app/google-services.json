@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "255626956590",
+    "firebase_url": "https://nativelearning-f32ea.firebaseio.com",
+    "project_id": "nativelearning-f32ea",
+    "storage_bucket": "nativelearning-f32ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255626956590:android:a967bd49adbd17a8",
+        "android_client_info": {
+          "package_name": "com.example.sergiychepur.learndroid1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255626956590-51ccq9obm5e4gkcrbkvireein6fp2im3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sergiychepur.learndroid1",
+            "certificate_hash": "a5f380d5d0f65b7a19df7ade820ea443b26df0a3"
+          }
+        },
+        {
+          "client_id": "255626956590-3kcuvhsvka6skdfdtn9nabqoiqkmnge0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVECRr4j6ugQmLBLAplsGiMfdMAYqRxws"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255626956590-3kcuvhsvka6skdfdtn9nabqoiqkmnge0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

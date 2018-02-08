@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LearnDroidChapterOne</string>
+    <string name="activity_main_desc_label">There is a test application</string>
+</resources>
